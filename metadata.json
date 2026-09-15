@@ -1,0 +1,7 @@
+{
+  "name": "BRO - Ultimate AI Companion",
+  "description": "Your immersive, loyal digital friend. Neural synthesis enabled with Gemini Live API.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
